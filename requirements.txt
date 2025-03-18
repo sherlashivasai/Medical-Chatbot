@@ -1,0 +1,14 @@
+Numpy
+pandas
+tensorflow
+langchain
+langchain_chroma
+sentence_transformers
+langchain-groq
+langchain-community
+chromadb
+bs4
+pypdf
+python-dotenv
+ipykernel
+-e .
